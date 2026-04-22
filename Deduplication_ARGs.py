@@ -473,4 +473,4 @@ if __name__ == "__main__":
     f3 = step3_fill_resistance(f2)
     f4 = step4_manual_overrides(f3)
     f5 = step5_map_and_classify(f4)
-    print(f"\n🎉 Pipeline complete. Final output: {f5}")
+    print(f"\n Pipeline complete. Final output: {f5}")
